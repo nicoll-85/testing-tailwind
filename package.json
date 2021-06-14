@@ -7,7 +7,8 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.3.6"
+    "vite": "^2.3.6",
+    "vite-plugin-pug": "^0.3.0"
   },
   "dependencies": {
     "@tailwindcss/jit": "^0.1.18",
